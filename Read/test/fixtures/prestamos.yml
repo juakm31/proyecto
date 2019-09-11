@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  nombreCliente: MyString
+  nombreLibro: MyString
+  nombreAutor: MyString
+  fechaPrestamo: 2019-09-11
+  fechaDevolucion: 2019-09-11
+
+two:
+  nombreCliente: MyString
+  nombreLibro: MyString
+  nombreAutor: MyString
+  fechaPrestamo: 2019-09-11
+  fechaDevolucion: 2019-09-11
